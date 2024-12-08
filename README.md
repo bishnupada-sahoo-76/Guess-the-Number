@@ -5,5 +5,5 @@ I used Java and Object Oriented Programming to create this project.
 
 # Technology Used
 - Java
-- Object Oriented Programming
+- Object Oriented Programming(OOPs)
 ---
